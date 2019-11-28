@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Make sure to create a `.env` file and add these keys and its values.
+
+- REACT_APP_AWS_ACCESS_KEY
+- REACT_APP_AWS_SECRET_ACCESS_KEY
+- REACT_APP_AWS_S3_REGION
+- REACT_APP_AWS_S3_BUCKET
+
+Start the project using `yarn start` or `npm start`. Select file and click on **Submit** button. Check `console` for response or errors.
+
 ## Available Scripts
 
 In the project directory, you can run:
